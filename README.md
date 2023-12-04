@@ -14,6 +14,15 @@
 ![image](https://github.com/ErShiY/Naive-Bayes-Algorithm/assets/76460723/cf43aab1-8fd8-4feb-b6db-64e61c01a253)
 ![image](https://github.com/ErShiY/Naive-Bayes-Algorithm/assets/76460723/61131e28-597f-47ef-a78c-213cf2451154)
 
+## 文件介绍：
+### 其中，datasets为数据集文件，已做预处理，将所有的M用1标识，所有的B用0标识。
+### 原数据集为datasets.zip可自行解压查看。
+### wdbcMeanDemo.m为使用细胞核平均值计算的代码。
+### wdbcRadiusDemo.m为使用细胞核标准差计算的代码。
+### result_MEAN.xlsx为平均值代码时的调参过程。
+### result_RADIUS.xlsx为标准差代码时的调参过程。
+### 时间过紧，调参过程有些简陋。
+
 注：该算法是在《机器学习基础——原理、算法与实践》袁梅宇所著，基础上进行代码的改写。
 如果对机器学习感兴趣的话，推荐阅读此书。
 
